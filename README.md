@@ -7,9 +7,9 @@ Orginally from https://www.pixiv.net/en/artworks/100557662 ported to X11 cursor.
 **Installation:**
 
 ```bash
-git clone https://github.com/yijiem/Raiden-Shogun-Cursors.git
-mv Raiden-Shogun-Cursors ~/.icons/                             # Install to local users
-sudo mv Raiden-Shogun-Cursors /usr/share/icons/                # Install to all users
+tar -xvf Raiden-Shogun-Cursors-*.tar.gz
+mv Raiden-Shogun-Cursors-*/ ~/.icons/                             # Install to local users
+sudo mv Raiden-Shogun-Cursors-*/ /usr/share/icons/                # Install to all users
 ```
 
 **Uninstallation:**
